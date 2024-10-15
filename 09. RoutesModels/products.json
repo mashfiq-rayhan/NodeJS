@@ -1,0 +1,30 @@
+[
+  {
+    "id": "123",
+    "title": "Land Cruiser",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+    "price": "10000",
+    "description": "Land Cruiser"
+  },
+  {
+    "id": "0.29499965097877845",
+    "title": "Range Rover",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/107719/range-rover-exterior-right-front-three-quarter-46.jpeg?isig=0&q=80",
+    "price": "10000",
+    "description": "Land Rover Range Rover"
+  },
+  {
+    "id": "0.8497261623886418",
+    "title": "BMW X7",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/140591/x1-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+    "price": "20000",
+    "description": "BMW X7"
+  },
+  {
+    "id": "234",
+    "title": "Land Rover",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/55215/defender-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+    "price": "10000",
+    "description": "Land Rover Defender"
+  }
+]
