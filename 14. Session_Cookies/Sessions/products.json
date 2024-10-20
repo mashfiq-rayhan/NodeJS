@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Harrier",
+    "imageUrl": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1600:900:1/caradvice/private/a540ieue0yml9flghxyp",
+    "price": "5600",
+    "description": "Toyota Harrier."
+  },
+  {
+    "title": "Land Cruiser",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+    "price": "600000",
+    "description": "Toyota Land Cruiser."
+  },
+  {
+    "title": "Range Rover",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/107719/range-rover-exterior-right-front-three-quarter-46.jpeg?isig=0&q=80",
+    "price": "10000",
+    "description": "Land Rover Range Rover"
+  },
+
+  {
+    "title": "Land Rover",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/55215/defender-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+    "price": "10000",
+    "description": "Land Rover Defender"
+  },
+  {
+    "title": "BMW X7",
+    "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/140591/x1-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+    "price": "20000",
+    "description": "BMW X7"
+  },
+  {
+    "title": "Cullinan",
+    "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/20/1392/rolls-royce-cullinan-front-angle-low-view-182093.jpg",
+    "price": "100000",
+    "description": "Rolls Royce Cullinan "
+  }
+]
