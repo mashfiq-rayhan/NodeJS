@@ -4,12 +4,7 @@ const brevo = require("@getbrevo/brevo");
 
 const User = require("../models/user");
 
-const api = new brevo.TransactionalEmailsApi();
-const apiKey = api.authentications["apiKey"];
-apiKey.apiKey =
-  "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";
-// smtp: xsmtpsib-a9b6797edf51a105820f39b2f2552ca3054047fe4219106265f549a61b943d2a-P4I5RVn6cJ9kEHB8
-// api: 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
+// Put Api consts here from .env
 
 const sendSmtpEmail = new brevo.SendSmtpEmail();
 
