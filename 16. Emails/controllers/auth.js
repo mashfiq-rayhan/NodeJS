@@ -7,7 +7,7 @@ const User = require("../models/user");
 const api = new brevo.TransactionalEmailsApi();
 const apiKey = api.authentications["apiKey"];
 
-apiKey.apiKey = "put api key here not smtp";
+apiKey.apiKey = "put api key here not smtp from .env";
 
 const sendSmtpEmail = new brevo.SendSmtpEmail();
 
