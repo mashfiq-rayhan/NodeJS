@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Harrier",
+    "imageUrl": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1600:900:1/caradvice/private/a540ieue0yml9flghxyp",
+    "price": "5600",
+    "description": "Toyota Harrier."
+  },
+  {
+    "title": "Land Cruiser",
+    "imageUrl": "https://e1.pxfuel.com/desktop-wallpaper/803/335/desktop-wallpaper-2022-toyota-land-cruiser-300-series-land-cruiser-300-thumbnail.jpg",
+    "price": "600000",
+    "description": "Toyota Land Cruiser."
+  },
+  {
+    "title": "Range Rover",
+    "imageUrl": "https://e0.pxfuel.com/wallpapers/938/526/desktop-wallpaper-crossline-black-range-rover-sport-thumbnail.jpg",
+    "price": "10000",
+    "description": "Land Rover Range Rover."
+  },
+
+  {
+    "title": "Land Rover",
+    "imageUrl": "https://e0.pxfuel.com/wallpapers/481/130/desktop-wallpaper-land-rover-defender-90-land-rover-thumbnail.jpg",
+    "price": "10000",
+    "description": "Land Rover Defender."
+  },
+  {
+    "title": "BMW X7",
+    "imageUrl": "https://e0.pxfuel.com/wallpapers/302/623/desktop-wallpaper-2023-bmw-x7-g07-front-view-exterior-new-gray-x7-luxury-suv-german-cars-bmw-thumbnail.jpg",
+    "price": "20000",
+    "description": "BMW X7."
+  },
+  {
+    "title": "Cullinan",
+    "imageUrl": "https://e1.pxfuel.com/desktop-wallpaper/469/158/desktop-wallpaper-rolls-royce-cullinan-rolls-royce-truck-thumbnail.jpg",
+    "price": "100000",
+    "description": "Rolls Royce Cullinan."
+  }
+]
