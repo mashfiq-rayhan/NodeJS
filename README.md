@@ -1,6 +1,6 @@
-# NodeJS Master 🚀
+# NodeJS : My Journey with Node.js
 
-NodeJS Master is a comprehensive workspace of Node.js and JavaScript projects, designed to help you master backend development from the ground up. The folder structure is organized by topic and complexity, starting from Node.js basics and JavaScript essentials to advanced backend features like authentication, REST APIs, real-time communication, file uploads, and integration with databases such as MongoDB and MySQL.
+NodeJS Master is a comprehensive workspace of Node.js and JavaScript projects. The folder structure is organized by topic and complexity, starting from Node.js basics and JavaScript essentials to advanced backend features like authentication, REST APIs, real-time communication, file uploads, and integration with databases such as MongoDB and MySQL.
 
 ## ✨ Features
 
@@ -57,5 +57,3 @@ NodeJS Master is a comprehensive workspace of Node.js and JavaScript projects, d
 - **27. Socket**: Real-time communication with Socket.io
 
 ---
-
-Whether you are a beginner learning Node.js or an experienced developer seeking reference implementations for advanced backend features, this workspace serves as a practical resource
